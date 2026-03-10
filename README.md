@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Website-success?style=for-the-badge&logoColor=white)](https://aksharasingh-portfolio.surge.sh)
 
-A high-performance, interactive personal portfolio website designed to showcase my expertise in brand communication, audience-first social strategy, and execution-driven marketing. Built specially for the TestGorilla Brand Communications & Social Media Specialist application.
+A high-performance, interactive personal portfolio website designed to showcase my expertise in brand communication, audience-first social strategy, and execution-driven marketing.
 
 ## 🚀 Features
 
